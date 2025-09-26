@@ -1,5 +1,5 @@
 ## Hi there 👋
-welcome to leeds beckett
+Welcome to leeds beckett
 my name is Anas Ali Im a Level 4 student at Leeds Beckett University 
 Studying Cyber Security and Digital Forensics
 <!--
